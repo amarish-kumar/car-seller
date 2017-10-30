@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application.DAL.Abstract", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application.DAL.Concrete", "Application.DAL.Concrete\Application.DAL.Concrete.csproj", "{EB3FB7CA-4A8F-46B1-A9CB-1AD942EAC6ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application.ViewModels", "Application.ViewModels\Application.ViewModels.csproj", "{88FA221F-F751-4BD1-A0A1-F92B834EE3BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{EB3FB7CA-4A8F-46B1-A9CB-1AD942EAC6ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB3FB7CA-4A8F-46B1-A9CB-1AD942EAC6ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB3FB7CA-4A8F-46B1-A9CB-1AD942EAC6ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88FA221F-F751-4BD1-A0A1-F92B834EE3BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88FA221F-F751-4BD1-A0A1-F92B834EE3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88FA221F-F751-4BD1-A0A1-F92B834EE3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88FA221F-F751-4BD1-A0A1-F92B834EE3BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,4 @@
+C:\Users\Yosvaldy\Documents\GitHub\car-seller\CarSeller\Application.ViewModels\bin\Debug\Application.ViewModels.dll
+C:\Users\Yosvaldy\Documents\GitHub\car-seller\CarSeller\Application.ViewModels\bin\Debug\Application.ViewModels.pdb
+C:\Users\Yosvaldy\Documents\GitHub\car-seller\CarSeller\Application.ViewModels\obj\Debug\Application.ViewModels.dll
+C:\Users\Yosvaldy\Documents\GitHub\car-seller\CarSeller\Application.ViewModels\obj\Debug\Application.ViewModels.pdb
