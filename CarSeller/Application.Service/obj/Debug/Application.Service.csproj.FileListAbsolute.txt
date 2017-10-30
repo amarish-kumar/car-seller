@@ -1,0 +1,4 @@
+C:\Users\Yosvaldy\Documents\GitHub\car-seller\CarSeller\Application.Service\bin\Debug\Application.Service.dll
+C:\Users\Yosvaldy\Documents\GitHub\car-seller\CarSeller\Application.Service\bin\Debug\Application.Service.pdb
+C:\Users\Yosvaldy\Documents\GitHub\car-seller\CarSeller\Application.Service\obj\Debug\Application.Service.dll
+C:\Users\Yosvaldy\Documents\GitHub\car-seller\CarSeller\Application.Service\obj\Debug\Application.Service.pdb
