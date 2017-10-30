@@ -1,0 +1,5 @@
+C:\Users\Yosvaldy\Documents\GitHub\car-seller\CarSeller\Application.DAL.Abstract\bin\Debug\Application.DAL.Abstract.dll
+C:\Users\Yosvaldy\Documents\GitHub\car-seller\CarSeller\Application.DAL.Abstract\bin\Debug\Application.DAL.Abstract.pdb
+C:\Users\Yosvaldy\Documents\GitHub\car-seller\CarSeller\Application.DAL.Abstract\obj\Debug\Application.DAL.Abstract.csprojResolveAssemblyReference.cache
+C:\Users\Yosvaldy\Documents\GitHub\car-seller\CarSeller\Application.DAL.Abstract\obj\Debug\Application.DAL.Abstract.dll
+C:\Users\Yosvaldy\Documents\GitHub\car-seller\CarSeller\Application.DAL.Abstract\obj\Debug\Application.DAL.Abstract.pdb

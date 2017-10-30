@@ -1,0 +1,5 @@
+C:\Users\Yosvaldy\Documents\GitHub\car-seller\CarSeller\Application.DAL.Concrete\bin\Debug\Application.DAL.Concrete.dll
+C:\Users\Yosvaldy\Documents\GitHub\car-seller\CarSeller\Application.DAL.Concrete\bin\Debug\Application.DAL.Concrete.pdb
+C:\Users\Yosvaldy\Documents\GitHub\car-seller\CarSeller\Application.DAL.Concrete\obj\Debug\Application.DAL.Concrete.csprojResolveAssemblyReference.cache
+C:\Users\Yosvaldy\Documents\GitHub\car-seller\CarSeller\Application.DAL.Concrete\obj\Debug\Application.DAL.Concrete.dll
+C:\Users\Yosvaldy\Documents\GitHub\car-seller\CarSeller\Application.DAL.Concrete\obj\Debug\Application.DAL.Concrete.pdb

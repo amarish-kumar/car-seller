@@ -1,0 +1,5 @@
+C:\Users\Yosvaldy\Documents\GitHub\car-seller\CarSeller\Application.Models\bin\Debug\Application.Models.dll
+C:\Users\Yosvaldy\Documents\GitHub\car-seller\CarSeller\Application.Models\bin\Debug\Application.Models.pdb
+C:\Users\Yosvaldy\Documents\GitHub\car-seller\CarSeller\Application.Models\obj\Debug\Application.Models.csprojResolveAssemblyReference.cache
+C:\Users\Yosvaldy\Documents\GitHub\car-seller\CarSeller\Application.Models\obj\Debug\Application.Models.dll
+C:\Users\Yosvaldy\Documents\GitHub\car-seller\CarSeller\Application.Models\obj\Debug\Application.Models.pdb
