@@ -66,11 +66,28 @@
     <Compile Include="EntityConfigurations\ModelConfiguration.cs" />
     <Compile Include="EntityConfigurations\TransmissionConfiguration.cs" />
     <Compile Include="EntityConfigurations\TrimConfiguration.cs" />
+    <Compile Include="Migrations\201710310258054_InitialCommit.cs" />
+    <Compile Include="Migrations\201710310258054_InitialCommit.Designer.cs">
+      <DependentUpon>201710310258054_InitialCommit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201710310306584_SeedMakeTable.cs" />
+    <Compile Include="Migrations\201710310306584_SeedMakeTable.Designer.cs">
+      <DependentUpon>201710310306584_SeedMakeTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201710310258054_InitialCommit.resx">
+      <DependentUpon>201710310258054_InitialCommit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201710310306584_SeedMakeTable.resx">
+      <DependentUpon>201710310306584_SeedMakeTable.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

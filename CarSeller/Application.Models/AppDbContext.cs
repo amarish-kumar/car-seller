@@ -1,11 +1,6 @@
 ﻿using Application.Models.Entities;
 using Application.Models.EntityConfigurations;
-using System;
-using System.Collections.Generic;
 using System.Data.Entity;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Application.Models
 {
@@ -20,12 +15,14 @@ namespace Application.Models
         public DbSet<Feature> Features { get; set; }
         public DbSet<DriveTrain> DriveTrains { get; set; }
 
-        public AppDbContext()
+        public AppDbContext() 
+            : base ("name=DefaultConnection")
         {
         }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
+            modelBuilder.HasDefaultSchema("");
             modelBuilder.Configurations.Add(new DriveTrainConfiguration());
             modelBuilder.Configurations.Add(new EngineConfiguration());
             modelBuilder.Configurations.Add(new FeatureConfiguration());
